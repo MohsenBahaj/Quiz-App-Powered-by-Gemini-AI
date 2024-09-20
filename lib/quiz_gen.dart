@@ -20,7 +20,7 @@ class _AiState extends State<Ai> {
     final model = GenerativeModel(
       model: 'gemini-1.5-flash-latest',
       apiKey:
-          'AIzaSyDgPKmCXQWi5SAm3fPpsJODkbIOGyr4CUQ', // Add your API key here
+          'Add your API key here', // Add your API key here
     );
 
     final prompt = '''
